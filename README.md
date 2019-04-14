@@ -1,1 +1,1 @@
-# DjangoResrWithAngularjs
+# DjangoRestApiWithAngular7
